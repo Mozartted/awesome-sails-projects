@@ -18,6 +18,7 @@ This include projects created as tools for the sails.js framework and us.
 - [irlnathan/sails-generate-scaffold](https://github.com/irlnathan/sails-generate-scaffold) - A project for generating scaffold base of a CRUD appllcation
 - [sailsjs/sails-generate-test](https://github.com/sailsjs/sails-generate-test) - A base to generate sets for the sails framework
 - [positive-js/sailsjs-starter](https://github.com/positive-js/sailsjs-starter) - A base starter for sails projects
+- [arrowfunxtion/sails-doc](https://github.com/arrowfunxtion/sails-doc) - A tool to generate api documentation
 
 #### Apps
 - [irlnathan/activityoverlord20](https://github.com/irlnathan/activityoverlord20) - A cool project to learn sails with 
